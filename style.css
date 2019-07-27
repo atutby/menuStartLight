@@ -1,3 +1,7 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
 /*Copyright www.Master-CSS.com*/
 .my-logo {
   position: fixed;
